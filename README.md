@@ -9,5 +9,5 @@ By studying them meticulously, it was possible to extract very interesting concl
 It was used jupyter notebook (https://colab.research.google.com/) and the main libraries were:
 
 * panda
-*matplot.lib
-*seaborn
+* matplot.lib
+* seaborn
